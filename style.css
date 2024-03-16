@@ -2,3 +2,127 @@ html {
   height: 100%;
   width: 100%;
 }
+
+body {
+  background-color: rgb(255, 255, 255);
+  border-bottom-color: rgb(167, 215, 249);
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-image-outset: 0;
+  border-image-repeat: stretch;
+  border-image-slice: 100%;
+  border-image-source: none;
+  border-image-width: 1;
+  color: rgb(34, 34, 34);
+  direction: ltr;
+  display: block;
+  font-size: 16px;
+  height: 8082.390625px;
+  margin-top: -1px;
+  padding-bottom: 24px;
+  padding-left: 24px;
+  padding-right: 24px;
+  padding-top: 20px;
+}
+
+h1 {
+  font: "Linux Libertine", Georgia, Times, serif;
+  font-weight: 400;
+  height: 37px;
+}
+
+p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  color: rgb(34, 34, 34);
+  direction: ltr;
+  display: block;
+  height: 154px;
+  line-height: 22.4px;
+  margin-block-end: 7px;
+  margin-block-start: 7px;
+  margin-bottom: 7px;
+  margin-inline-end: 0px;
+  margin-inline-start: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 7px;
+}
+
+table {
+  background-color: rgb(248, 249, 250);
+  border-bottom-color: rgb(162, 169, 177);
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-collapse: collapse;
+  border-image-outset: 0;
+  border-image-repeat: stretch;
+  border-image-slice: 100%;
+  border-image-source: none;
+  border-image-width: 1;
+  border-left-color: rgb(162, 169, 177);
+  border-left-style: solid;
+  border-left-width: 1px;
+  border-right-color: rgb(162, 169, 177);
+  border-right-style: solid;
+  border-right-width: 1px;
+  border-top-color: rgb(162, 169, 177);
+  border-top-style: solid;
+  border-top-width: 1px;
+  box-sizing: border-box;
+  clear: right;
+  color: rgb(0, 0, 0);
+  direction: ltr;
+  display: table;
+  float: right;
+  font-family: sans-serif;
+  font-size: 12.32px;
+  height: 673.359375px;
+  line-height: 14.783999px;
+  margin-bottom: 6.16px;
+  margin-left: 12.32px;
+  margin-right: 0px;
+  margin-top: 6.16px;
+  padding-bottom: 2.464px;
+  padding-left: 2.464px;
+  padding-right: 2.464px;
+  padding-top: 2.464px;
+  text-indent: 0px;
+  width: 366.765625px;
+  -webkit-border-horizontal-spacing: 3px;
+  -webkit-border-vertical-spacing: 3px;
+}
+
+#toc {
+  background-color: rgb(248, 249, 250);
+  border-bottom-color: rgb(162, 169, 177);
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-image-outset: 0;
+  border-image-repeat: stretch;
+  border-image-slice: 100%;
+  border-image-source: none;
+  border-image-width: 1;
+  border-left-color: rgb(162, 169, 177);
+  border-left-style: solid;
+  border-left-width: 1px;
+  border-right-color: rgb(162, 169, 177);
+  border-right-style: solid;
+  border-right-width: 1px;
+  border-top-color: rgb(162, 169, 177);
+  border-top-style: solid;
+  border-top-width: 1px;
+  color: rgb(34, 34, 34);
+  direction: ltr;
+  display: table;
+  font-family: sans-serif;
+  font-size: 13.3px;
+  height: 865.484375px;
+  line-height: 21.280001px;
+  padding-bottom: 7px;
+  padding-left: 7px;
+  padding-right: 7px;
+  padding-top: 7px;
+  width: 218.109375px;
+  zoom: 1;
+}
